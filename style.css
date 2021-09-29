@@ -1,0 +1,27 @@
+
+*{
+    background-color: black;
+}
+
+
+.imggoat{
+        color: white;
+        display: block;
+        margin: 0 auto;
+    }
+.imglink{
+        margin-left: 30%;
+        display: inline-block;
+        
+    }
+.headers{
+    color: white;
+    text-align: center;
+}
+  .video{
+    width: 1280px ;
+    height: 720px ;
+    display: block;
+    margin: 0 auto;
+  }
+  
